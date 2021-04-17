@@ -21,6 +21,6 @@ You should finish the homework in a week's time, but since it's the first week, 
 
 3. (Optional but Highly Recommended) Learn lectures of MIT 6.0001 by yourself. The material won't be covered in this course but is a good complementary for this course.
 
-4. (Optional) The `add.py` we wrote on class is in this directory, but furthermore, there is a add.cpp program as well, which is writen in C++. You may try to find the difference between them.
+4. (Optional) The `add.py` we wrote on class is in this directory, but furthermore, there is a `add.cpp` program as well, which is writen in C++. You may try to find the difference between them.
 
 Hint: in pure C, you have to overload functions to have the same functionality as the python add. In C++ you can use the function template, then how about the complexity of the syntax?
