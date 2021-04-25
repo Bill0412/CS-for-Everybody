@@ -1,4 +1,5 @@
-## Overview
+## Lecture Overview
+Following is a brief of what we learned in this class.
 - Install [Python](https://www.python.org/) on your PC
 - Write Your First Program with Python IDLE(bundled in Python installation package)
 - Bit-wise operations: `^`(exclusive or), `|`(or), `&`(and)
