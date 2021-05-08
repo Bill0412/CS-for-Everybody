@@ -9,6 +9,8 @@
 
 ### Lectures
 - [Lecture 1: Intro to Python](python/lecture1/README.md)
+- [Lecture 2: Flow Control](python/lecture2/README.md)
+- [Lecture 3: Strings](python/lecture3/README.md)
 
 
 ## Step 2: Your Missing Education in CS
