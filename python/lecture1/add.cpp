@@ -12,6 +12,7 @@ double add1(double a,double b) {
 }
 
 // 2. C++ function template
+// explicitly specify the type of arguments and return value
 template<typename number> number add2(number a, number b) {
     return a + b;
 }
